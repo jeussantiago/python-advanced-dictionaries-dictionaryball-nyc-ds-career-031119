@@ -1,0 +1,9 @@
+[
+  "index_test.py::TestDictionaryBall::test_game_dict",
+  "index_test.py::TestDictionaryBall::test_num_points_scored",
+  "index_test.py::TestDictionaryBall::test_player_numbers",
+  "index_test.py::TestDictionaryBall::test_player_stats",
+  "index_test.py::TestDictionaryBall::test_shoe_size",
+  "index_test.py::TestDictionaryBall::test_team_colors",
+  "index_test.py::TestDictionaryBall::test_team_names"
+]
